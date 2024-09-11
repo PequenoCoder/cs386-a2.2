@@ -1,3 +1,3 @@
 Tate
 Landon
-Dazz
+Dazz: Software engineering Major at NAU
