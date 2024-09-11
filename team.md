@@ -1,3 +1,3 @@
 Tate
 Landon
-Dazz: Software engineering Major at NAU
+Dazz: Software engineering Major at NAU, I like chess
